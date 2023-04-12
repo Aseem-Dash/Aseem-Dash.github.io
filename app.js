@@ -19,3 +19,4 @@ const noAnswerMethod = () => {
 }
 
 yesBtn.addEventListener('click', yesAnswerMethod)
+noBtn.addEventListener('click', noAnswerMethod)
