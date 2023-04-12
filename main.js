@@ -26,5 +26,5 @@ const iamdumb = () => {
     buttons.forEach(btn => {
         btn.style.pointerEvents = 'none'
     });
-    content.append('I knew it 😂')
+    content.append('I KNOW RIGHT!! XD')
 }
